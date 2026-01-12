@@ -1,8 +1,5 @@
 #include <iostream>
 using namespace std;
-/*Omar Elsayed Abd Elaziz Hafez
-224101541
-*/
 struct binary_node
 {
     int data;
@@ -199,3 +196,4 @@ int main()
 
     return 0;
 }
+
